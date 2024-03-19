@@ -1,0 +1,19 @@
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csprojResolveAssemblyReference.cache
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.kremit.resources
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.Cache
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+c:\users\bjk-s\onedrive\belgeler\visual studio 2013\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.AssemblyReference.cache
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.kremit.resources
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.GenerateResource.cache
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.csproj.CoreCompileInputs.cache
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\jxanw\OneDrive\Masaüstü\random button\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
